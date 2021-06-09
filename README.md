@@ -6,8 +6,8 @@
 ### Approach
     - The script will Randomly Generates the number. Which will make selection in TicTacToe
     - If the selected option was generated again. Message will display as "Invalid input; re-enter slot number:"
-    - Covered the Out range number. If the customer enters the Rage greatere than. It will ask the customer to re-enter the number 
-    (getRandomNumber method will generate the random number)
+    - Covered the Out range number. If the customer enters the Rage greatere than. It will ask the customer to 
+       re-enter the number (getRandomNumber method will generate the random number)
     
 ### Technologies Used
     - Developed Framework Using Java
